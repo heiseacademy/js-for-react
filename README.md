@@ -1,6 +1,6 @@
 # Essenzielles JavaScript für React
 
-Dieses Repository enthält den Beispiel-Code für den heiseacademy-Kurs „Essenzielles JavaScript für React“ von [Erik Behrends](https://behrends.io).
+Dieses Repository enthält den Beispiel-Code für den heiseacademy-Kurs [„Essenzielles JavaScript für React“](https://shop.heise-academy.de/detail/a689f0ee652f46858f7eccde1e612e6a) von [Erik Behrends](https://behrends.io).
 
 Zu jedem Kapitel im Kurs gibt es ein Verzeichnis, welches für jede Lektion eine Datei mit dem Beispiel-Code enthält.
 
